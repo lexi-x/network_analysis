@@ -1,17 +1,8 @@
-# Lexi Xu
-# Lx31
-# COMP 182 Spring 2021 - Homework 4, Problem 3
-
-# You can import any standard library, as well as Numpy and Matplotlib.
-# You can use helper functions from comp182.py, provided.py, and autograder.py,
-# but they have to be copied over here.
-
 import random
 import numpy
 import matplotlib.pyplot as plt
 import pylab
 import copy
-
 
 def read_graph(filename):
     """
